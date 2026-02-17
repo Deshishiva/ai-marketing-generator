@@ -1,33 +1,43 @@
-#  AI Marketing Generator
+# 🚀 AI Marketing Generator
 
-An AI-powered full-stack web application that generates professional marketing content including Instagram captions, trending hashtags, and premium brand taglines based on user input.
+AI Marketing Generator is a full-stack web application that generates professional marketing content including Instagram captions, trending hashtags, and premium brand taglines based on user input.
 
 ---
 
-# Tech Stack
+## 🚀 Features
 
-# Frontend
+- AI-generated Instagram captions
+- Trending hashtag suggestions
+- Premium brand tagline creation
+- User input-based content generation
+- Real-time marketing output
+- Local LLM integration using Ollama
+
+---
+
+## 🛠️ Tech Stack
+
+### Frontend
 - Next.js 14
 - React 18
 - TypeScript
 - Custom CSS Animations
 
-# Backend
+### Backend
 - Node.js
 - Express.js
 - CORS
 - Dotenv
 
-# AI Integration
+### AI Integration
 - Ollama (Local LLM)
 - Model: gemma3:1b / phi3:mini
 
 ---
 
-# Installation Process (Local Setup)
+## 📦 Installation Process (Local Setup)
 
-
-# Install Backend
+### Install Backend
 
 cd backend  
 npm install  
@@ -36,7 +46,9 @@ node server.js
 Backend runs at:  
 http://localhost:3001
 
-# Install Frontend
+---
+
+### Install Frontend
 
 cd ../frontend  
 npm install  
@@ -45,12 +57,12 @@ npm run dev
 Frontend runs at:  
 http://localhost:3000
 
+---
 
-
-#  Install AI Model (Ollama)
+### Install AI Model (Ollama)
 
 Install Ollama from:  
-https://ollama.com
+https://ollama.com  
 
 Pull model:
 
@@ -62,9 +74,10 @@ ollama pull phi3:mini
 
 ---
 
-# 📂 Project Structure
+## 📂 Project Structure
 
 ai-marketing-generator/  
+
 │  
 ├── backend/  
 │   ├── server.js  
@@ -80,7 +93,7 @@ ai-marketing-generator/
 
 ---
 
-#  Result
+## 📌 Output Format
 
 The application generates structured marketing content in the following format:
 
@@ -102,7 +115,7 @@ The system returns creative, formatted marketing output powered by AI.
 
 ---
 
-# Author
+## 👨‍💻 Developed By
 
 Shiva Kumar Deshi
 
