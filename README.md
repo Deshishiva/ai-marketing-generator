@@ -35,7 +35,14 @@ AI Marketing Generator is a full-stack web application that generates profession
 
 ---
 
-## 📦 Installation Process (Local Setup)
+## 📦 Installation Process (Works in only Local Setup)
+
+### Clone the Repository
+
+git clone https://github.com/Deshishiva/ai-marketing-generator.git  
+cd ai-marketing-generator
+
+---
 
 ### Install Backend
 
@@ -117,5 +124,5 @@ The system returns creative, formatted marketing output powered by AI.
 
 ## 👨‍💻 Developed By
 
-Shiva Kumar Deshi
-
+Shiva Kumar Deshi  
+GitHub: https://github.com/Deshishiva
